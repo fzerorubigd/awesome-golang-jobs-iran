@@ -13,6 +13,7 @@ the list is in alphabetical order
 
 - [Tehran](#tehran)
   - [Clickyab](#clickyab)
+  - [Quiz Of Kings](#quiz_of_kings)
   - [VADA](#vada)
   
   
@@ -21,8 +22,8 @@ the list is in alphabetical order
 *Companies in Tehran* 
 
 * [Clickyab](https://clickyab.com) - Smart online advertising in iran based on geographical region 
+* [Quiz Of Kings](http://quizofkings.com) - Mobile Games
 * [VADA](http://vada.ir) - VADA - House of mobile
-
 
 
 TODO : write a test for alphabetical order, also add some information about each company 
