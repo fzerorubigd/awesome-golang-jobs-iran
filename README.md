@@ -14,7 +14,7 @@ the list is in alphabetical order
 - [Tehran](#tehran)
   - [Clickyab](#clickyab)
   - [VADA](#vada)
-  - [MAPNA](#mapna)
+  - [MAPFA](#mapna)
   
 ### Tehran
 
@@ -22,7 +22,7 @@ the list is in alphabetical order
 
 * [Clickyab](https://clickyab.com) - Smart online advertising in iran based on geographical region 
 * [VADA](http://vada.ir) - VADA - House of mobile
-* [MAPNA](http://mapfa.net/) - mapna Mobile VAS Evolution in Iran and the Middle East
+* [MAPFA](http://mapfa.net/) - mapna Mobile VAS Evolution in Iran and the Middle East
 
 
 
