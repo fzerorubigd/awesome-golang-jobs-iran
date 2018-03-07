@@ -14,7 +14,7 @@ the list is in alphabetical order
 - [Tehran](#tehran)
   - [Clickyab](#clickyab)
   - [VADA](#vada)
-  - [MAPFA](#mapna)
+  - [MAPFA](#mapfa)
   
 ### Tehran
 
