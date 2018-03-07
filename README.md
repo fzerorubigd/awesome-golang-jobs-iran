@@ -14,7 +14,7 @@ the list is in alphabetical order
 - [Tehran](#tehran)
   - [Clickyab](#clickyab)
   - [Quiz Of Kings](#quiz_of_kings)
-  - [Ronak soft(Nested)](#ronak_soft)
+  - [Ronak Soft - Nested](#ronak_soft)
   - [VADA](#vada)
   
 ### Tehran
