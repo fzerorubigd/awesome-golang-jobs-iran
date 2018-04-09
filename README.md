@@ -13,6 +13,7 @@ the list is in alphabetical order
 
 - [Tehran](#tehran)
   - [Clickyab](#clickyab)
+  - [Cafe Bazar](#cafe_bazar)
   - [HodHodIM](#hodhodim)
   - [MAPFA](#mapfa)
   - [Quiz Of Kings](#quiz_of_kings)
@@ -24,6 +25,7 @@ the list is in alphabetical order
 *Companies in Tehran* 
 
 * [Clickyab](https://clickyab.com) - Smart online advertising in iran based on geographical region 
+* [Cafe Bazar](https://cafebazaar.ir/) - Android marketplace
 * [HodHodIM](https://hodhod.im/) - offline/online messaging platform
 * [MAPFA](http://mapfa.net/) - mapfa Mobile VAS Evolution in Iran and the Middle East
 * [Quiz Of Kings](http://quizofkings.com) - Mobile Games
@@ -32,3 +34,6 @@ the list is in alphabetical order
 
 TODO : add some information about each company 
 
+## Contribution
+
+Apply the changes in an alphabetical order and create a pull request.
