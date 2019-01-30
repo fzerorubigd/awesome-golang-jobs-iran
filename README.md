@@ -20,9 +20,7 @@ the list is in alphabetical order
   - [Ronak Soft - Nested](#ronak_soft)
   - [VADA](#vada)
 
-## Companies
-
-### Tehran
+## Tehran
 
 Companies located in Tehran
 
@@ -33,16 +31,23 @@ Companies located in Tehran
 * [HodHodIM][hodhodim] - offline/online messaging platform
 
 ### Janstun
-* [Janstun][janstun] - Janstun startup provides IT-based solutions in form of business strategies and softwares. All products, including [Nyrika][nyrika] which is a Data-Center Infrastructure Management platform, are designed driven by domain, modeled in functional paradigm and implemented using go.
+[Janstun][janstun] startup provides IT-based solutions in form of business strategies and softwares. All products are designed driven by domain, modeled in functional paradigm and implemented using go.
+
+#### Products
+* [Nyrika][nyrika]: Data-Center Infrastructure Management platform
+* Bonakon: Supply chain distributed platform
 
 ### MAPFA
-* [MAPFA][mapfa] - mapfa Mobile VAS Evolution in Iran and the Middle East
+* [MAPFA][mapfa] Mobile VAS Evolution in Iran and the Middle East
 
 ### Quiz Of Kings
 * [Quiz Of Kings][quizofkings] - Mobile Games
 
 ### Ronak Soft - Nested
-* [Ronak Soft - Nested][ronaksoft] - Ronak Soft has Develeped [Nested][nested]. They provide a service that gives them all the right tools to communicate with their personal and professional teams more powerfully - anywhere, at anytime.
+* [Ronak Soft][ronaksoft] has Develeped [Nested][nested]. They provide a service that gives them all the right tools to 
+
+### Products
+* [Nested][nested]: Team communication platform lets personal/professional teams to communicate more powerfully - anywhere, at anytime.
 
 ### VADA
 * [VADA][vada] - House of mobile
