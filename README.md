@@ -14,7 +14,7 @@ the list is in alphabetical order
 - [Tehran](#tehran)
   - [Clickyab](#clickyab)
   - [HodHodIM](#hodhodim)
-  - [Janstun] (#janstun)
+  - [Janstun](#janstun)
   - [MAPFA](#mapfa)
   - [Quiz Of Kings](#quiz_of_kings)
   - [Ronak Soft - Nested](#ronak_soft)
