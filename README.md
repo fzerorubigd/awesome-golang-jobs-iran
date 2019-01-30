@@ -9,7 +9,7 @@ Thank you!
 
 the list is in alphabetical order 
 
-## Awesome Companies (IRAN!)
+## Awesome Companies List (IRAN!)
 
 - [Tehran](#tehran)
   - [Clickyab](#clickyab)
@@ -19,20 +19,44 @@ the list is in alphabetical order
   - [Quiz Of Kings](#quiz_of_kings)
   - [Ronak Soft - Nested](#ronak_soft)
   - [VADA](#vada)
-  
+
+## Companies
+
 ### Tehran
 
-*Companies in Tehran* 
+Companies located in Tehran
 
-* [Clickyab](https://clickyab.com) - Smart online advertising in iran based on geographical region 
-* [HodHodIM](https://hodhod.im/) - offline/online messaging platform
+### Clickyab
+* [Clickyab][clickyab] - Smart online advertising in iran based on geographical region 
+
+### HodHodIM
+* [HodHodIM][hodhodim] - offline/online messaging platform
+
+### Janstun
 * [Janstun][janstun] - Janstun startup provides IT-based solutions in form of business strategies and softwares. All products, including [Nyrika][nyrika] which is a Data-Center Infrastructure Management platform, are designed driven by domain, modeled in functional paradigm and implemented using go.
-* [MAPFA](http://mapfa.net/) - mapfa Mobile VAS Evolution in Iran and the Middle East
-* [Quiz Of Kings](http://quizofkings.com) - Mobile Games
-* [Ronak Soft - Nested](https://ronaksoft.com) - Ronak Soft has Develeped [Nested](https://nested.me). They provide a service that gives them all the right tools to communicate with their personal and professional teams more powerfully - anywhere, at anytime.
-* [VADA](http://vada.ir) - House of mobile
 
-TODO : add some information about each company
+### MAPFA
+* [MAPFA][mapfa] - mapfa Mobile VAS Evolution in Iran and the Middle East
 
+### Quiz Of Kings
+* [Quiz Of Kings][quizofkings] - Mobile Games
+
+### Ronak Soft - Nested
+* [Ronak Soft - Nested][ronaksoft] - Ronak Soft has Develeped [Nested][nested]. They provide a service that gives them all the right tools to communicate with their personal and professional teams more powerfully - anywhere, at anytime.
+
+### VADA
+* [VADA][vada] - House of mobile
+
+## TODO
+
+* Add some information about each company
+
+[clickyab]: https://clickyab.com
+[hodhodim]: https://hodhod.im/
 [janstun]: http://www.janstun.com
+[mapfa]: http://mapfa.net/
+[nested]: https://nested.me
 [nyrika]: http://www.nyrika.com
+[quizofkings]: http://quizofkings.com
+[ronaksoft]: https://ronaksoft.com
+[vada]: http://vada.ir
