@@ -34,7 +34,7 @@ Companies located in Tehran
 [Janstun][janstun] startup provides IT-based solutions in form of business strategies and softwares. All products are designed driven by domain, modeled in functional paradigm and implemented using go.
 
 #### Products
-* [Nyrika][nyrika]: Data-Center Infrastructure Management platform
+* [Nyrika][nyrika]: Data-Center Infrastructure Management system
 * Bonakon: Supply chain distributed platform
 
 ### MAPFA
@@ -44,10 +44,10 @@ Companies located in Tehran
 * [Quiz Of Kings][quizofkings] - Mobile Games
 
 ### Ronak Soft - Nested
-* [Ronak Soft][ronaksoft] has Develeped [Nested][nested]. They provide a service that gives them all the right tools to 
+* [Ronak Soft][ronaksoft] has develeped [Nested][nested] team communication platform.
 
 #### Products
-* [Nested][nested]: Team communication platform lets personal/professional teams to communicate more powerfully - anywhere, at anytime.
+* [Nested][nested]: Lets personal/professional teams to communicate more powerfully - anywhere, at anytime. APIs over websocket and http, LMTP and ESMTP mail server and file storage are some of main services which are fully implemented using go.
 
 ### VADA
 * [VADA][vada] - House of mobile
