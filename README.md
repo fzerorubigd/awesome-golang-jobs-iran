@@ -9,26 +9,59 @@ Thank you!
 
 the list is in alphabetical order 
 
-## Awesome Companies (IRAN!)
+## Awesome Companies List (IRAN!)
 
 - [Tehran](#tehran)
   - [Clickyab](#clickyab)
   - [HodHodIM](#hodhodim)
+  - [Janstun](#janstun)
   - [MAPFA](#mapfa)
   - [Quiz Of Kings](#quiz_of_kings)
   - [Ronak Soft - Nested](#ronak_soft)
   - [VADA](#vada)
-  
-### Tehran
 
-*Companies in Tehran* 
+## Tehran
 
-* [Clickyab](https://clickyab.com) - Smart online advertising in iran based on geographical region 
-* [HodHodIM](https://hodhod.im/) - offline/online messaging platform
-* [MAPFA](http://mapfa.net/) - mapfa Mobile VAS Evolution in Iran and the Middle East
-* [Quiz Of Kings](http://quizofkings.com) - Mobile Games
-* [Ronak Soft - Nested](https://ronaksoft.com) - Ronak Soft has Develeped [Nested](https://nested.me). They provide a service that gives them all the right tools to communicate with their personal and professional teams more powerfully - anywhere, at anytime.
-* [VADA](http://vada.ir) - House of mobile
+Companies located in Tehran
 
-TODO : add some information about each company 
+### Clickyab
+* [Clickyab][clickyab] - Smart online advertising in iran based on geographical region 
 
+### HodHodIM
+* [HodHodIM][hodhodim] - offline/online messaging platform
+
+### Janstun
+[Janstun][janstun] startup provides IT-based solutions in form of business strategies and softwares. All products are designed driven by domain, modeled in functional paradigm and implemented using go.
+
+#### Products
+* [Nyrika][nyrika]: Data-Center Infrastructure Management system
+* Bonakon: Supply chain distributed platform
+
+### MAPFA
+* [MAPFA][mapfa] Mobile VAS Evolution in Iran and the Middle East
+
+### Quiz Of Kings
+* [Quiz Of Kings][quizofkings] - Mobile Games
+
+### Ronak Soft - Nested
+* [Ronak Soft][ronaksoft] has develeped [Nested][nested] team communication platform.
+
+#### Products
+* [Nested][nested]: Lets personal/professional teams to communicate more powerfully - anywhere, at anytime. APIs over websocket and http, LMTP and ESMTP mail server and file storage are some of main services which are fully implemented using go.
+
+### VADA
+* [VADA][vada] - House of mobile
+
+## TODO
+
+* Add some information about each company
+
+[clickyab]: https://clickyab.com
+[hodhodim]: https://hodhod.im/
+[janstun]: http://www.janstun.com
+[mapfa]: http://mapfa.net/
+[nested]: https://nested.me
+[nyrika]: http://www.nyrika.com
+[quizofkings]: http://quizofkings.com
+[ronaksoft]: https://ronaksoft.com
+[vada]: http://vada.ir
